@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
+
+*{
+    margin:0;
+    font-family: 'Noto Sans', sans-serif;
+}
+.container1
+{
+    margin:2% 30%;
+    padding:50px;
+    background-color:#8dd0e3;
+    color:white;
+}
+.container1 div{
+    padding: 10px;
+}
+h1{
+    padding: 10px;;
+}
+.container1 input{
+    width: 100%;
+    padding: 5px;
+}
+button{
+    background-color: white;
+    color:#8dd0e3;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: white;
+}
